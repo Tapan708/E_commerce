@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840149431701",
+    "project_id": "saturdaypractise",
+    "storage_bucket": "saturdaypractise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840149431701:android:6bb848d665678007b7729c",
+        "android_client_info": {
+          "package_name": "com.example.saturday_practise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLs8vXXd5eEXlb1D-6ZSzaNNakyRQWUIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
